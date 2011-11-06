@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div id="main">
+    <h1 id="posttitle"><a href="{{ page.url }}">{{ page.title }}</a></h1>   
+    <div class="postdate">{{ page.date | date: "%B %e, %Y" }}</div>
+    <div id="content">
+{{ content }}
+    </div>
+</div>
