@@ -18,6 +18,6 @@ title: Chrome Shack
 * Sparkly comic strip
 * Auto-updating
 
-Install [Chrome Shack](chromeshack_v1.20.crx)
+Install [Chrome Shack](chromeshack_v1.21.crx)
 
 View [Chrome Shack code](http://github.com/arhughes/chromeshack)
