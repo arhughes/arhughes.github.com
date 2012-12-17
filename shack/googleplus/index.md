@@ -4,7 +4,7 @@ title: Google+ Translator
 ---
 Maps names in Google+ to their shackname.
 
-Install [Google+ Shackname Translator for Chrome](googleplus_translate_v0.4.crx)
+Install [Google+ Shackname Translator for Chrome](https://chrome.google.com/webstore/detail/bnopljdfiipcdpadpdifimoloeeeploa)
 
 Install [Google+ Shackname Translator for Firefox](translate.user.js)
 
